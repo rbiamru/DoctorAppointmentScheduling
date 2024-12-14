@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Final Exam for Amruthan Manjula Anandan (Student #: 8996336)";
+}
+
+<p>
+    <a asp-controller="Schedule" asp-action="GetAllSchedules">View all schedules</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Schedule" asp-action="GetAddScheduleRequest">Add a new schedule</a>
+</p>
+<div class="row">
+    <div class="col-sm-6">
+        <vc:recent-past-appointments number-of-appointments-to-display="10" />
+    </div>
+
+    <div class="col-sm-6">
+        <vc:upcoming-in-person-appointments number-of-appointments-to-display="5" />
+    </div>
+
+   @*  <div class="col-sm-6">
+        @await Component.InvokeAsync("UpcomingInPersonAppointments", new { numberOfAppointments = 5 })
+    </div> *@
+    <div class="col-sm-6">
+        A place holder for upcoming appointments view component.
+    </div>
+</div>

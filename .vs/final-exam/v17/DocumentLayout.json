@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\models\\scheduledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\models\\scheduledetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicschedule\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|solutionrelative:clinicschedule\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\components\\upcominginpersonappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\components\\upcominginpersonappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\views\\shared\\components\\upcominginpersonappointments\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\views\\shared\\components\\upcominginpersonappointments\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC811914-E2B5-47FA-88D3-E9706B1A83A6}|ClinicSchedule.Tests\\ClinicSchedule.Tests.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicschedule.tests\\entitiesunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC811914-E2B5-47FA-88D3-E9706B1A83A6}|ClinicSchedule.Tests\\ClinicSchedule.Tests.csproj|solutionrelative:clinicschedule.tests\\entitiesunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicschedule\\entities\\clinician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|solutionrelative:clinicschedule\\entities\\clinician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicschedule\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09077C3B-61B4-41D1-842A-BEE434243A04}|ClinicSchedule\\ClinicSchedule.csproj|solutionrelative:clinicschedule\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|d:\\cad 2\\prog8551 net core\\finalreview\\final-starting-code\\clinicscheduleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BE6E2CF-8264-4414-B821-3CED7324C09D}|ClinicScheduleApp\\ClinicScheduleApp.csproj|solutionrelative:clinicscheduleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Models\\ScheduleDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Models\\ScheduleDetailsViewModel.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Models\\ScheduleDetailsViewModel.cs",
+              "RelativeToolTip": "ClinicScheduleApp\\Models\\ScheduleDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:17:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Program.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Program.cs",
+              "RelativeToolTip": "ClinicScheduleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:01:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Schedule.cs",
+              "RelativeDocumentMoniker": "ClinicSchedule\\Entities\\Schedule.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Schedule.cs",
+              "RelativeToolTip": "ClinicSchedule\\Entities\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:15:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpcomingInPersonAppointments.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Components\\UpcomingInPersonAppointments.cs",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Components\\UpcomingInPersonAppointments.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Components\\UpcomingInPersonAppointments.cs",
+              "RelativeToolTip": "ClinicScheduleApp\\Components\\UpcomingInPersonAppointments.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:46:45.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Shared\\Components\\UpcomingInPersonAppointments\\Default.cshtml",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Views\\Shared\\Components\\UpcomingInPersonAppointments\\Default.cshtml",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Shared\\Components\\UpcomingInPersonAppointments\\Default.cshtml",
+              "RelativeToolTip": "ClinicScheduleApp\\Views\\Shared\\Components\\UpcomingInPersonAppointments\\Default.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T23:43:17.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicScheduleApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T23:26:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntitiesUnitTest.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule.Tests\\EntitiesUnitTest.cs",
+              "RelativeDocumentMoniker": "ClinicSchedule.Tests\\EntitiesUnitTest.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule.Tests\\EntitiesUnitTest.cs",
+              "RelativeToolTip": "ClinicSchedule.Tests\\EntitiesUnitTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:20:01.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clinician.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Clinician.cs",
+              "RelativeDocumentMoniker": "ClinicSchedule\\Entities\\Clinician.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Clinician.cs",
+              "RelativeToolTip": "ClinicSchedule\\Entities\\Clinician.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:15:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicSchedule\\Entities\\Appointment.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicSchedule\\Entities\\Appointment.cs",
+              "RelativeToolTip": "ClinicSchedule\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:15:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240814231354_Initial.cs",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs",
+              "RelativeToolTip": "ClinicScheduleApp\\Migrations\\20240814231354_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:13:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\appsettings.json",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\appsettings.json",
+              "RelativeToolTip": "ClinicScheduleApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T20:39:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicScheduleApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CAD 2\\PROG8551 NET Core\\FinalReview\\final-starting-code\\ClinicScheduleApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicScheduleApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T20:38:17.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

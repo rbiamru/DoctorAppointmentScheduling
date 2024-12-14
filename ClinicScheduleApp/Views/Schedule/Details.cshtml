@@ -1,0 +1,127 @@
+﻿@model ScheduleDetailsViewModel
+<div class="mb-3">
+    <a asp-controller="Schedule" asp-action="GetAllSchedules">All schedules</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Schedule" asp-action="GetAddScheduleRequest">Add new schedule</a>
+    <span class="mx-1">|</span>
+    <a asp-controller="Schedule" asp-action="GetEditRequestById" asp-route-id="">Edit this schedule</a>
+</div>
+
+<div>
+    <p class="h6">Schedule summary:</p>
+    <p>Placeholder for your based project info</p>
+</div>
+<div class="row g-3 align-items-center">
+    <div>Placeholder for your counts</div>
+</div>
+
+<hr class="border border-primary border-1 opacity-75" />
+
+<div class="row">
+    <div class="col-sm-9">
+        <p class="h6">Clinicians on this schedule:</p>
+        <p>Placeholder for Clinicians table</p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var clinician in Model.ActiveSchedule.Clinicians)
+                {
+                    <tr>
+                        <td>@clinician.FullName</td>
+                        <td>@clinician.ProfessionalRegistrationNumber</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <div class="col-sm-3">
+        <h3>Add New Clinician:</h3>
+       @*  <form asp-action="AddNewClinician" asp-controller="Schedule" method="post">
+            <input type="hidden" asp-for="@Model.NewClinician.ScheduleId" value="@Model.Schedule.ScheduleId" />
+            <label asp-for="@Model.NewClinician.FirstName">First Name:</label>
+            <input asp-for="@Model.NewClinician.FirstName" />
+            <label asp-for="@Model.NewClinician.LastName">Last Name:</label>
+            <input asp-for="@Model.NewClinician.LastName" />
+            <button type="submit">Add</button>
+        </form> *@
+
+        <form asp-controller="Schedule" asp-action="AddNewClinician" method="post" asp-route-id="@Model.ActiveSchedule.ScheduleId" enctype="application/x-www-form-urlencoded">
+            <div class="text-danger" asp-validation-summary="All"></div>
+
+            <div class="form-group">
+                <label asp-for="NewClinician.FirstName">First Name</label>
+                <input type="text" asp-for="NewClinician.FirstName" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NewClinician.LastName">Last Name</label>
+                <input type="text" asp-for="NewClinician.LastName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="NewClinician.ProfessionalRegistrationNumber">Professional Registration #</label>
+                <input type="text" asp-for="NewClinician.ProfessionalRegistrationNumber" class="form-control" />
+            </div>
+
+
+            <input type="hidden" asp-for="ActiveSchedule.ScheduleId" />
+
+            <button type="submit" class="btn btn-primary">Add new appointment</button>
+        </form>
+    </div>
+</div>
+
+<hr class="border border-primary border-1 opacity-75" />
+
+<div class="row">
+    <div class="col-sm-9">
+        <p class="h6">Appointments for this schedule:</p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Patient Name</th>
+                    <th>Appointment Date</th>
+                    <th>Appointment Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var appointment in Model.ActiveSchedule.Appointments)
+                {
+                    <tr>
+                        <td>@appointment.PatientName</td>
+                        <td>@appointment.AppointmentDate?.ToShortDateString()</td>
+                        <td>@appointment.AppointmentType</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="col-sm-3">
+        <h3>Add New Appointment:</h3>
+        <form asp-action="AddNewAppointment" asp-controller="Schedule" method="post">
+            <input type="hidden" asp-for="@Model.NewAppointment.ScheduleId" value="@Model.ActiveSchedule.ScheduleId" />
+            <label asp-for="@Model.NewAppointment.PatientName">Patient Name:</label>
+            <input asp-for="@Model.NewAppointment.PatientName" />
+            <label asp-for="@Model.NewAppointment.AppointmentDate">Appointment Date:</label>
+            <input type="date" asp-for="@Model.NewAppointment.AppointmentDate" />
+            <label asp-for="@Model.NewAppointment.AppointmentType">Appointment Type:</label>
+            <select asp-for="@Model.NewAppointment.AppointmentType" asp-items="Html.GetEnumSelectList<AppointmentTypeOptions>()">
+            </select>
+            <button type="submit">Add</button>
+        </form>
+    </div>
+</div>
+
+<hr class="border border-primary border-1 opacity-75" />
+
+<div>
+    <p>
+        Ideally this app would allow users to assign clinicians to appointments but in the
+        interest of avoiding too much complexity on this exam we will ignore that for now &#128516;
+    </p>
+</div>

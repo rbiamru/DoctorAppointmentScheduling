@@ -1,0 +1,35 @@
+﻿@* @model AppointmentsViewModel
+
+<div class="upcoming-in-person-appointments">
+    <h3>Upcoming In-Person Appointments</h3>
+    @if (Model.Appointments.Any())
+    {
+        <ul>
+            @foreach (var appointment in Model.Appointments)
+            {
+                <li>
+                    @appointment.AppointmentDate.Value.ToString("f") - @appointment.PatientName
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>No upcoming in-person appointments available.</p>
+    }
+    <p>Displaying @Model.Appointments.Count of @Model.NumberOfAppointmentsToDisplay appointments.</p>
+</div> *@
+
+@model AppointmentsViewModel
+<h3>Upcoming Appointments</h3>
+<h6>Showing at least @Model.NumberOfAppointmentsToDisplay apppointments</h6>
+<ul>
+	@for (int i = 0; i < Math.Min(Model.NumberOfAppointmentsToDisplay, Model.Appointments.Count); i++)
+	{
+		<li>@Model.Appointments[i].PatientName (on @Model.Appointments[i].Schedule.Name schedule)</li>
+	}
+	@* @if (Model.Appointments.Count > Model.NumberOfAppointmentsToDisplay)
+	{
+		<li><a href="@Url.Action("Index", "Appointments", new { numberOfAppointments = Model.Appointments.Count })">View all appointments</a></li>
+	} *@
+</ul>

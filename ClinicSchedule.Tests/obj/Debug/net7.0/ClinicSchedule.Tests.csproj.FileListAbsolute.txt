@@ -1,0 +1,204 @@
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\testhost.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\testhost.exe
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.deps.json
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.runtimeconfig.json
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.assert.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.core.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.csproj.AssemblyReference.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.csproj.CopyComplete
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\refint\ClinicSchedule.Tests.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.genruntimeconfig.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ref\ClinicSchedule.Tests.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\testhost.exe
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\testhost.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.deps.json
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.runtimeconfig.json
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.Tests.pdb
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.assert.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.core.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\bin\Debug\net7.0\ClinicSchedule.pdb
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.csproj.AssemblyReference.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.AssemblyInfoInputs.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.AssemblyInfo.cs
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.csproj.CoreCompileInputs.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSc.E0AD041C.Up2Date
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\refint\ClinicSchedule.Tests.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.pdb
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ClinicSchedule.Tests.genruntimeconfig.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule.Tests\obj\Debug\net7.0\ref\ClinicSchedule.Tests.dll

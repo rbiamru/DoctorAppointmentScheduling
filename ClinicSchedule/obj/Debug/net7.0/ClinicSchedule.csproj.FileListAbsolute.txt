@@ -1,0 +1,22 @@
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.deps.json
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfoInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfo.cs
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.csproj.CoreCompileInputs.cache
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\refint\ClinicSchedule.dll
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.pdb
+G:\My Drive\python\college-code\PROG2230-code\exams\final\ClinicSchedule-starting-code\ClinicSchedule\obj\Debug\net7.0\ref\ClinicSchedule.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.deps.json
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\bin\Debug\net7.0\ClinicSchedule.pdb
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfoInputs.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.AssemblyInfo.cs
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.csproj.CoreCompileInputs.cache
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\refint\ClinicSchedule.dll
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ClinicSchedule.pdb
+D:\CAD 2\PROG8551 NET Core\FinalReview\final-starting-code\ClinicSchedule\obj\Debug\net7.0\ref\ClinicSchedule.dll
